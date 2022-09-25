@@ -21,10 +21,15 @@
     "enableHibernateCache": true,
     "enableSwaggerCodegen": false,
     "enableTranslation": true,
+    "entities": ["Album", "Photo", "Tag"],
     "entitySuffix": "",
+    "herokuAppName": "aqueous-sea-29725",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "17",
     "jhiPrefix": "jhi",
     "jhipsterVersion": "7.9.3",
     "languages": ["en", "hi", "mr"],
+    "lastLiquibaseTimestamp": 1664115571000,
     "messageBroker": false,
     "microfrontend": false,
     "microfrontends": [],
@@ -43,6 +48,7 @@
     "skipFakeData": false,
     "skipUserManagement": true,
     "testFrameworks": ["cypress"],
+    "useOkta": false,
     "websocket": false,
     "withAdminUi": true
   }

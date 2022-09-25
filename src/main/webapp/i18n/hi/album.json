@@ -1,0 +1,27 @@
+{
+  "flickrappApp": {
+    "album": {
+      "home": {
+        "title": "Albums",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया Album बनाएँ",
+        "createOrEditLabel": "Album बनाएँ या संपादित करें",
+        "notFound": "No Albums found"
+      },
+      "created": "एक नया Album [identifier: {{ param }}] तैयार है",
+      "updated": "एक Album [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "Album [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "Album [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "Album"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "created": "Created",
+      "user": "User"
+    }
+  }
+}
